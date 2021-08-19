@@ -4,15 +4,29 @@ Projeto de exemplo Meetup.
 
 Este é um simples onboarding animado, mas que aborda conceitos muito utilizados em grandes apps.
 
-## Getting Started
+# Descrição
+ 
+  <p align="center">
+ <img  width="300" height="625" src="assets/to_readme/present.gif">
+ <p/>
+***
+ ## Desenvolvimento:
+ - [x] Telas principais.
+ - [] HomePage.
+ - [x] Aunteticação.
+ - [ ] Gerência de estado com Mobx.
+ - [ ] `shared_preferences`para salvar favoritos.
 
-This project is a starting point for a Flutter application.
+ 
+ ## Aprendizado
+* Dart `null safety`. 
+* Utilização de `setState`.
+* Utilização de Animações com `AnimatedContainer`.
+* Utilização de `ScrollController`.
+* Componentização.
+* Reforço em Orientação a Objetos.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ## Próximos passos
+* Utilização de Animações com **Rive**.
+* Firebase.
+* Utilização de *Splash Screen*.
