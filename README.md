@@ -7,7 +7,7 @@ Este é um simples onboarding animado, mas que aborda conceitos muito utilizados
 # Descrição
  
 <p align="center">
- <img  width="300" height="625" src="assets/to_readme/xxxxxx.gif">
+ <img  width="300" height="625" src="assets/to_readme/1.gif">
 <p/>
  
 <p align="center">
