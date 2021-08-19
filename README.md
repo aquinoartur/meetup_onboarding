@@ -6,13 +6,13 @@ Este é um simples onboarding animado, mas que aborda conceitos muito utilizados
 
 # Descrição
  
-  <p align="center">
- <img  width="300" height="625" src="assets/to_readme/present.gif">
- <p/>
+<p align="center">
+ <img  width="300" height="625" src="assets/to_readme/xxxxxx.gif">
+<p/>
  
-   <p align="center">
+<p align="center">
  <a href="https://flutter.dev/docs/get-started/codelab">APK Download</a>
- <p/>
+<p/>
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
