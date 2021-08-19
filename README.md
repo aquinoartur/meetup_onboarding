@@ -8,7 +8,10 @@ Este é um simples onboarding animado, mas que aborda conceitos muito utilizados
  
 <p align="center">
  <img  width="300" height="625" src="assets/to_readme/1.png">
+ <img  width="300" height="625" src="assets/to_readme/2.png">
+ <img  width="300" height="625" src="assets/to_readme/3.png">
 <p/>
+
  
 <p align="center">
  <a href="https://flutter.dev/docs/get-started/codelab">APK Download</a>
