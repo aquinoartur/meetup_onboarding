@@ -23,7 +23,7 @@ Este é um simples onboarding animado, mas que aborda conceitos muito utilizados
 
  ## Desenvolvimento:
  - [x] Telas principais.
- - [] HomePage.
+ - [ ] HomePage.
  - [x] Aunteticação.
  - [ ] Gerência de estado com Mobx.
  - [ ] `shared_preferences`para salvar favoritos.
