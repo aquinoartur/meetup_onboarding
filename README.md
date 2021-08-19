@@ -1,6 +1,8 @@
-# meetup_onboarding
+# Flutterando Meetup
 
-A new Flutter project.
+Projeto de exemplo Meetup.
+
+Este é um simples onboarding animado, mas que aborda conceitos muito utilizados em grandes apps.
 
 ## Getting Started
 
